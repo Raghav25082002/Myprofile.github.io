@@ -1,0 +1,103 @@
+body{
+    background-color: rgba(228, 227, 227, 0.668);
+}
+.container{
+    width: 700px;
+    margin: 40px auto;
+    background-color: rgb(240, 240, 240);
+    display: block;
+    padding: 20px;
+    text-align: center;
+}
+h1{
+    margin: 40px 0px 20px 0px;
+    font-size: 40px;
+}
+.introduction{
+    margin: 20px 60px;
+    font-size: 20px;
+}
+div{
+   box-shadow: 0px 10px 20px rgb(191, 189, 189);
+}
+.container a{
+    text-decoration: none;
+    border: 2px solid black;
+    color: white;
+    background-color: black;
+    padding: 12px;
+    border-radius: 5px;
+    font-size: 18px;
+}
+.container a:hover{
+    background-color: rgb(14, 14, 140);
+}
+.intro-link{
+    margin: 40px 0px;
+}
+img{
+    width: 100px;
+    border-radius: 50%;
+}
+.container2{
+    width: 700px;
+    margin: 40px auto;
+    background-color: rgb(240, 240, 240);
+    display: block;
+    padding: 20px;
+    text-align: center;   
+}
+h2{
+    font-size: 25px;
+    color: rgb(34, 210, 151);
+    margin-bottom: 30px;
+}
+.container2 p{
+    font-size: 20px;
+    margin: 10px 0px 30px 0px;
+}
+.container3{
+    width: 700px;
+    margin: 40px auto;
+    text-align: center;
+    display: block;
+    padding: 20px;
+    background-color: rgb(240, 240, 240);
+}
+.container3 p{
+    font-size: 20px;
+    margin: 10px 0px 30px 0px;
+}
+.container4{
+    width: 700px;
+    margin: 40px auto;
+    text-align: center;
+    padding: 20px;
+    background-color:  rgb(240, 240, 240);
+}
+.container4 p{
+    font-size: 20px;
+    margin: 10px 0px 30px 0px;
+}
+.container5{
+    width: 700px;
+    margin: 40px auto;
+    text-align: center;
+    padding: 20px;
+    background-color: rgb(240, 240, 240);
+}
+.container5 ul{
+    list-style: none;
+    display: inline-flex;
+    padding-left: 0px;
+    margin-top: 1px;
+}
+.container5 a{
+    text-decoration: none;
+    
+}
+.container5 img{
+   width: 50px;
+   height: 40px;
+   padding: 7px;
+}
